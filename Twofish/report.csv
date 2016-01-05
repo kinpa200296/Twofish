@@ -1,0 +1,11 @@
+Executing action "encrypt" on file input.txt with key in file default.key.
+Writing result to file output.txt.
+Writing log to file recent.log.
+iteration,data size(bytes),buffer size(bytes),time(ns),time(s)
+0,32,32,0,0.000000000
+1,32,32,0,0.000000000
+2,32,32,0,0.000000000
+3,32,32,0,0.000000000
+4,32,32,0,0.000000000
+5,32,32,0,0.000000000
+6,21,32,0,0.000000000
